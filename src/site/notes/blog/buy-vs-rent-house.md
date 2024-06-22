@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/buy-vs-rent-house/","title":"Mua vs Thuê nhà - Bạn quyết định dựa vào yếu tố nào?"}
+{"dg-publish":true,"permalink":"/blog/buy-vs-rent-house/","title":"buy vs rent","created":"2023-03-16T07:43:53+07:00","updated":"2024-06-22T21:20:16+07:00"}
 ---
 
 # Mua vs Thuê nhà - Bạn quyết định dựa vào yếu tố nào?

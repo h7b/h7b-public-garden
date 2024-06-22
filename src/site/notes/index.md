@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Hey 👋","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","title":"h7b notes","tags":["gardenEntry"],"created":"2023-03-16T07:43:53+07:00","updated":"2024-06-22T21:17:13+07:00"}
 ---
 
 # Hey 👋
@@ -8,21 +8,9 @@ Welcome to my [digital garden](https://maggieappleton.com/garden-history).
 
 I use this as a frictionless way to
 
-- communicate my thoughts via blog post
+- communicate my thoughts
 - quickly reference my notes.
 
-If you've got any questions or interesting technical problems, please reach out to
-
-- email: `h(at)kool(dot)casa`
-- or start a [discussion in GitHub](https://github.com/h7b/h7b-dendron-netlify/discussions/1).
+Contact: `h(at)kool(dot)casa`
 
 Huy (he/him)
-
-| File                                                                   |
-| ---------------------------------------------------------------------- |
-| [[blog/blog\|blog]]                                                 |
-| [[blog/macbook-price-vn\|macbook-price-vn]]                         |
-| [[blog/buy-vs-rent-house\|buy-vs-rent-house]]                       |
-| [[blog/compare-tax-investment-us-vn\|compare-tax-investment-us-vn]] |
-
-{ .block-language-dataview}
