@@ -1,9 +1,5 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+# Taking notes in public
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
+This repo contains my public notes written in [Obsidian](https://obsidian.md/), then published using the [Digital Garden Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden) and deployed to [Netlify](https://www.netlify.com/).
 
----
-## Docs
-Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+Published pages are accessible at [kool.casa](https://kool.casa/).
