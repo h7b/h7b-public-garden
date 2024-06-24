@@ -1,0 +1,76 @@
+---
+{"dg-publish":true,"permalink":"/unsorted/cell-phone-plan-vn/","title":"Cell phone plans in Vietnam","created":"2023-03-16T07:43:51+07:00","updated":"2024-06-24T23:27:30+07:00"}
+---
+
+# Cell phone plans in Vietnam
+
+ref: [j2team](https://www.facebook.com/groups/j2team.community/permalink/1897418107256967/)
+
+## 2024
+
+[List of Vinaphone plan](https://vinaphone.com.vn/di-dong/data)
+- [VD2](https://vinaphone.com.vn/di-dong/vd2/)
+    - 2.000đ/24h
+    - 500MB Data/24h (hết dung lượng tính cước vượt gói cước vượt gói 75đ/50KB)
+    - 20 phút gọi di động nội mạng VinaPhone
+- [D5](https://vinaphone.com.vn/di-dong/d5/)
+    - 5.000đ/24h (đã bao gồm VAT)
+    - 1GB Data (hết dung lượng dừng truy cập)
+- [D6V](https://vinaphone.com.vn/di-dong/d6v/)
+    - 6.000đ/24h
+    - 2GB Data
+    - Miễn phí truyền hình MyTV hơn 140 kênh (bao gồm chùm kênh VTVCab)
+- [V25](https://vinaphone.com.vn/di-dong/v25/)
+    - 25.000đ/30 ngày
+    - 40 phút gọi di động trong nước
+    - Thời gian cam kết không MNP: 18 tháng kể từ ngày đăng ký
+    - Áp dụng cho thuê bao di động trả trước VinaPhone
+- [VS50](https://vinaphone.com.vn/di-dong/vs50/)
+    - 50.000đ/30 ngày
+    - 6GB Data (hết dung lượng tính cước theo quy định: Theo gói Data khác đang sử dụng hoặc theo cước M0 (75đ/50KB) với TB không có gói)
+    - Miễn phí Data truy cập và gói nội dung Premium trên ứng dụng [ON Plus](https://onplus.com.vn)
+- [DT70](https://vinaphone.com.vn/di-dong/dt70/)
+    - 70.000 đ/tháng
+    - 10GB Data/tháng (hết dung lượng dừng truy cập)
+    - Thuê bao VinaPhone đang hoạt động (bao gồm cả trả trước, trả sau, ezCom), chưa có các gói COMBO/DATA chu kỳ 1 tháng trở lên
+    - Thời gian cam kết không MNP: 18 tháng kể từ ngày đăng ký
+- [VD90](https://vinaphone.com.vn/di-dong/vd90/), [VD30T](https://vinaphone.com.vn/di-dong/vd30t/)
+    - 90.000 đ/tháng, 30.000 Đ/10 NGÀY
+    - 1GB Data/ngày (hết dung lượng dừng truy cập)
+    - Miễn phí cước cuộc gọi di động nội mạng VinaPhone ≤ 10 phút (tối đa 1.500 phút)
+    - 30 phút thoại ngoại mạng (bao gồm cố định VNPT)
+    - Thuê bao trả trước đăng ký gói trong vòng 30 ngày kể từ ngày kích hoạt (bao gồm cả thuê bao MNP)
+    - Thuê bao trả trước đủ điều kiện
+    - Thời gian cam kết không MNP: 18 tháng kể từ ngày đăng ký
+
+[List of Mobifone plan](https://www.mobifone.vn/dich-vu-di-dong/goi-cuoc?target=goi-combo-trong-nuoc)
+
+## 2022 Obsolete
+
+2022-08-01 pricing plans in details can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1F3Z8wbbp-72h_KrXktfomvZy6TcrxqAXDd5BIvxISwc/edit?usp=sharing)
+
+Viettel:
+
+- Umax4G: 50K/Tháng
+  - 5GB Tốc độ cao >> Hết 5GB Tốc độ cao sẽ được dùng tiếp không giới hạn dung lượng tốc độ 3Mbps
+  - Lưu ý: Gói Umax4G này chỉ dùng được trên nền 4G, những chỗ nào Viettel không có sóng 4G chỉ có 3G thì không dùng được
+- Umax50n: 50K/tháng
+  - Gói này như Umax4G nhưng Viettel đã điều chỉnh lại gần đây. 5GB Tốc độ cao >> 25GB Tốc độ 3Mbps >> Không giới hạn dung lượng tốc độ 1Mbps
+  - Gói Umax50n thì có thể dùng trên cả sóng 3G, ko như Umax4G chỉ dùng đc trên sóng 4G
+
+Vinaphone:
+
+- U1500: 1000K/12 Tháng. Có 500GB Tốc Độ Cao hết Tốc Độ Cao có thể dùng Không Giới Hạn Data Tốc Độ 5Mbps
+- TD49: 49K/tháng. 100GB Tốc độ cao (gồm 30GB dùng từ 6h đến 23h59, 70GB trong khung giờ còn lại), Hết Data vẫn dùng được 4G ở tốc độ 5Mbps
+- Big50Y: 50K/Tháng. 5GB Tốc Độ Cao/Ngày, hết 5GB ngừng truy cập, nhưng Không Giới Hạn Data truy cập Youtube, Tik Tok, Zalo
+
+Reddi:
+
+- Thác Đổ 1: 81K- 95K/Tháng. Không Giới Hạn Data Tốc Độ Cao nhưng giới hạn Data để phát wifi cho thiết bị khác 3GB/Tháng (Nghĩa là: Mình bật 4G dùng trên điện thoại sẽ không bao giờ hết Data nhưng phát Wifi cho thiết bị khác dùng thì chỉ phát được 3GB, hết 3GB thì không phát wifi được nữa nhưng vẫn dùng 4G max trên điện thoại mình bình thường)
+
+Mobifone:
+
+- VPB51: 100K/Tháng. Không Giới Hạn Data Tốc Độ Cao
+- 12FD50: Tầm 300K đến 400K / 12 Tháng. 5GB Tốc Độ Cao/Ngày, hết 5GB xài Không Giới Hạn Data Tốc Độ 3Mbps
+- CF50: 50k tháng. 100p nội mạng 35p ngoại mạng 30gb tốc độ cao, hết 30gb tốc độ 3Mbps
+- DTHN: 50K/Tháng. 1GB/Ngày, hết 1GB xài Không Giới Hạn Data Tốc Độ 5Mbps
