@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"h7b notes","tags":["gardenEntry"],"created":"2023-03-16T07:43:53+07:00","updated":"2024-06-22T21:17:13+07:00"}
+{"dg-publish":true,"permalink":"/index/","title":"home","tags":["gardenEntry"],"created":"2023-03-16T07:43:53+07:00","updated":"2024-06-22T21:26:32+07:00"}
 ---
 
 # Hey 👋
