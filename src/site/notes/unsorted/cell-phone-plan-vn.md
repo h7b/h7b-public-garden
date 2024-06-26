@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/unsorted/cell-phone-plan-vn/","title":"Cell phone plans in Vietnam","created":"2023-03-16T07:43:51+07:00","updated":"2024-06-24T23:27:30+07:00"}
+{"dg-publish":true,"permalink":"/unsorted/cell-phone-plan-vn/","title":"Cell phone plans in Vietnam","created":"2023-03-16T07:43:51+07:00","updated":"2024-06-25T23:36:19+07:00"}
 ---
 
 # Cell phone plans in Vietnam
-
-ref: [j2team](https://www.facebook.com/groups/j2team.community/permalink/1897418107256967/)
 
 ## 2024
 
@@ -16,6 +14,7 @@ ref: [j2team](https://www.facebook.com/groups/j2team.community/permalink/1897418
 - [D5](https://vinaphone.com.vn/di-dong/d5/)
     - 5.000đ/24h (đã bao gồm VAT)
     - 1GB Data (hết dung lượng dừng truy cập)
+    - Note 2024-06-25, ko thể đăng ký gói nếu ko đang sử dụng gói cước data tháng
 - [D6V](https://vinaphone.com.vn/di-dong/d6v/)
     - 6.000đ/24h
     - 2GB Data
@@ -45,7 +44,22 @@ ref: [j2team](https://www.facebook.com/groups/j2team.community/permalink/1897418
 
 [List of Mobifone plan](https://www.mobifone.vn/dich-vu-di-dong/goi-cuoc?target=goi-combo-trong-nuoc)
 
-## 2022 Obsolete
+Gói cước trả trước MobiCard - MobiFone. ref: [dichvumobifone](https://dichvumobifone.com/tong-hop-gia-cuoc-goi-noi-ngoai-mang-mobifone-tra-truoc.html)
+- Giá cước gọi
+    - Nội mạng: 1180 đ/phút
+    - Ngoại mạng: 1380 đ/phút
+- Giá cước tin nhắn
+    - Nội mạng: 290 đ/sms
+    - Ngoại mạng: 350 đ/sms
+
+Gói cước trả trước Vinacard - Vinaphone. ref: [banhangvnpt](https://banhangvnpt.vn/tin-tuc/bang-gia-cuoc-goi-va-nhan-tin-cua-vinaphone-moi-nhat-2105)
+- Giống MobiCard
+
+## 2022 Archived
+
+2024-06-25 update: info in this section is outdated, not usable.
+
+ref: [j2team](https://www.facebook.com/groups/j2team.community/permalink/1897418107256967/)
 
 2022-08-01 pricing plans in details can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1F3Z8wbbp-72h_KrXktfomvZy6TcrxqAXDd5BIvxISwc/edit?usp=sharing)
 
