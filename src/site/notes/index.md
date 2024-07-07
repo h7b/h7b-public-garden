@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"home","tags":["gardenEntry"],"created":"2023-03-16T07:43:53+07:00","updated":"2024-06-22T21:26:32+07:00"}
+{"dg-publish":true,"permalink":"/index/","title":"home","tags":["gardenEntry"],"created":"2023-03-16T07:43:53+07:00","updated":"2024-07-07T23:26:05+07:00"}
 ---
 
 # Hey 👋
 
-Welcome to my [digital garden](https://maggieappleton.com/garden-history).
+I'm Huy. Welcome to my [digital garden](https://maggieappleton.com/garden-history), which contains my [evergreen notes](https://notes.andymatuschak.org/Evergreen_notes). They are part of my [PKM](https://en.wikipedia.org/wiki/Personal_knowledge_management) system.
 
 I use this as a frictionless way to
 
