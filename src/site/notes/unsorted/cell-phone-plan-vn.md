@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/unsorted/cell-phone-plan-vn/","title":"Cell phone plans in Vietnam","created":"2023-03-16T07:43:51+07:00","updated":"2024-06-25T23:36:19+07:00"}
+{"dg-publish":true,"permalink":"/unsorted/cell-phone-plan-vn/","title":"Cell phone plans in Vietnam","created":"2023-03-16T07:43:51+07:00","updated":"2024-08-06T09:48:20+07:00"}
 ---
 
 # Cell phone plans in Vietnam
+
+2024-07-23, successfully going through the "Mobile number portability" [MNP process](http://chuyenmang.vinaphone.com.vn/home/index.jsp) to switch the mobile network operator from Mobifone to Vinaphone. I was using the [MobiQ](https://www.mobifone.vn/dich-vu-di-dong/loai-thue-bao/mobiq-4). When changing to Vina, they assigned me the [Vina690](https://3gvinaphone.com.vn/thoi-han-su-dung-goi-vina690-vinaphone.html).
 
 ## 2024
 
@@ -24,6 +26,11 @@
     - 40 phút gọi di động trong nước
     - Thời gian cam kết không MNP: 18 tháng kể từ ngày đăng ký
     - Áp dụng cho thuê bao di động trả trước VinaPhone
+- [C69](https://digishop.vnpt.vn/di-dong/c69/293)
+    - 69,000đ/30 ngày
+    - 1500 phút gọi di động nội mạng VinaPhone
+    - 30 phút gọi di động ngoại mạng
+    - 30 SMS trong nước
 - [VS50](https://vinaphone.com.vn/di-dong/vs50/)
     - 50.000đ/30 ngày
     - 6GB Data (hết dung lượng tính cước theo quy định: Theo gói Data khác đang sử dụng hoặc theo cước M0 (75đ/50KB) với TB không có gói)
@@ -51,11 +58,36 @@ Gói cước trả trước MobiCard - MobiFone. ref: [dichvumobifone](https://d
 - Giá cước tin nhắn
     - Nội mạng: 290 đ/sms
     - Ngoại mạng: 350 đ/sms
+- Gói cước tương tự: [VinaCard](https://vnpt.com.vn/tu-van/sim-vinacard-cua-vinaphone.html)
 
-Gói cước trả trước Vinacard - Vinaphone. ref: [banhangvnpt](https://banhangvnpt.vn/tin-tuc/bang-gia-cuoc-goi-va-nhan-tin-cua-vinaphone-moi-nhat-2105)
-- Giống MobiCard
+[MobiQ](https://www.mobifone.vn/dich-vu-di-dong/loai-thue-bao/mobiq-4)
+- Cước SMS thấp: 200 đồng/SMS nội mạng, 250 đồng/SMS liên mạng.
+- Cước thoại:
+    - Nội mạng: 1.580 đồng/phút
+    - Liên mạng: 1.780 đồng/phút.
+- Không giới hạn thời gian sử dụng: tự động gia hạn 60 ngày mỗi khi phát sinh giao dịch nạp tiền hoặc cuộc gọi, tin nhắn,… có tính cước.
+- Gói cước tương tự: [VinaXtra](https://vnpt.com.vn/tu-van/sim-vinaxtra-vinaphone.html), [Vina690](https://3gvinaphone.com.vn/thoi-han-su-dung-goi-vina690-vinaphone.html)
 
-## 2022 Archived
+[Vina690](https://digishop.vnpt.vn/tin-tuc-km/tu-van/sim-vina690?gad_source=1)
+- Cước phí gọi
+    - Nội mạng
+        - Năm đầu tiên: 690 đồng/phút
+        - Năm thứ 2, 3: 880 đồng/phút
+        - Từ năm thứ 4 trở đi: 1.180 đồng/phút
+    - Ngoại mạng
+        - Năm đầu tiên: 690 đồng/phút
+        - Năm thứ 2, 3: 980 đồng/phút
+        - Từ năm thứ 4 trở đi: 1.380 đồng/phút
+- Cước phí nhắn tin
+    - Nội mạng: 99 đồng/SMS
+    - Ngoại mạng: 250 đồng/SMS
+
+[Khách hàng cần làm gì khi chuyển mạng giữ số bị gây khó dễ? | Vietnamnet](https://vietnamnet.vn/khach-hang-can-lam-gi-khi-chuyen-mang-giu-so-bi-gay-kho-de-509351.html)
+[Khách hàng cần làm gì khi chuyển mạng giữ số bị gây khó dễ? | Sở thông tin và Truyền thông TpHCM](https://ict-hcm.gov.vn/tin-tuc?khach-hang-can-lam-gi-khi-chuyen-mang-giu-so-bi-gay-kho-de&post=MjNg1ODA4Mjc5Nw==)
+- Trong trường hợp tất cả thông tin đều đã chính xác, rõ ràng nhưng vẫn bị từ chối chuyển mạng, người dùng có thể viết thư khiếu nại và phản ánh trực tiếp vấn đề này tại mục Hỏi đáp trên cổng thông tin điện tử của Bộ TT&TT tại địa chỉ <https://mic.gov.vn/hoi-dap.htm>
+- Những khiếu nại của người dùng sẽ được tiếp nhận và phản hồi ngay tại cổng thông tin điện tử của Bộ TT&TT
+
+## 2022 Outdated
 
 2024-06-25 update: info in this section is outdated, not usable.
 
