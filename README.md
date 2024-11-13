@@ -1,10 +1,9 @@
-# Taking notes in public - mes belles lettres
+# Digital Obsidian Garden
+This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
+See the README in the plugin repo for information on how to set it up.
 
-This repo contains the source code of my public notes.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
 
-Current build:
-- The static site is published using the [Digital Garden Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden) and deployed to [Netlify](https://www.netlify.com/).
-- Notes are plain *Markdown* files, written in [Obsidian](https://obsidian.md/), located in an appropriate directory inside this GitHub repo (e.g. `journal` for periodic notes, `blog` for long form article, ...).
-- Each *Markdown* file has a *yaml* frontmatter for storing metadata.
-
-Published pages are accessible at [kool.casa](https://kool.casa/).
+---
+## Docs
+Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
