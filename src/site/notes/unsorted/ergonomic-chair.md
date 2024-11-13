@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unsorted/ergonomic-chair/","created":"2024-11-09T00:53:34+07:00","updated":"2024-11-13T22:08:41+07:00"}
+{"dg-publish":true,"permalink":"/unsorted/ergonomic-chair/","created":"2024-11-09T00:53:34+07:00","updated":"2024-11-13T22:24:41+07:00"}
 ---
 
 # Ergonomic chair
@@ -8,6 +8,7 @@
 
 - [Caster V2 - B](https://shopee.vn/Gh%E1%BA%BF-c%C3%B4ng-th%C3%A1i-h%E1%BB%8Dc-SMA-Furniture-Caster-L%C6%B0%E1%BB%9Bi-Wintex-H%C3%A0n-Qu%E1%BB%91c-ng%E1%BA%A3-gh%E1%BA%BF-140-%C4%91%E1%BB%99-b%E1%BA%A3o-h%C3%A0nh-5-n%C4%83m-i.497419141.24284232740?sp_atk=70aaa9f9-5bb4-4344-ab18-516d10facfd7)
     - 5.450.000
+    - Kiểu dáng khá giống dòng ghế [Ergohuman Ultra](https://shopee.vn/Ghế-công-thái-học-Nghia-furniture-Ergohuman-Elite-02-Lưới-Matrex-Mỹ-piston-class-4-samhongsa-i.122012647.28953372464)
     - Bảo hành 5 năm Lỗi 1 Đổi 1. Bảo hành lưới bong rách, trung lưới, khung lưới. Đổi bộ phận mới khi ghế bị lỗi
     - seller: [SMA Furniture](https://smafurniture.com/)
     - Same product by Nghia Furniture: [Caster V2 - B](https://shopee.vn/product/122012647/25728866541)
@@ -33,7 +34,7 @@
 - [Epione FortisChair 2.0](https://epione.vn/products/epione-fortischair-2)
     - 4.590.000 VND
     - Bảo hành 2 năm
-    - Similar product: [Epione FortisChair](https://epione.vn/products/epione-fortischair) 3.590.000 VND
+    - Similar product but previous version: [Epione FortisChair](https://epione.vn/products/epione-fortischair) 3.590.000 VND
 - [GTChair I-see M](https://dandihome.vn/ghe-luoi-cong-thai-hoc-ergonomic-gtchair-i-see/)
     - 5.600.000₫
     - Phiên bản rút gọn của I-see X
@@ -41,15 +42,10 @@
 - [Ergohuman Enjoy Basic 2](https://dandihome.vn/ergonomic-ergohuman-elite-2/)
     - 6.950.000₫
     - Phiên bản rút gọn của Enjoy Elite 2
-
-## Vệ sinh ghế lưới như thế nào?
-
-Source: [dandihome.vn](https://dandihome.vn/ve-sinh-ghe-luoi-nhu-the-nao/)
-- cần đóng rèm, không để ánh nắng mặt trời chiếu thẳng vào ghế. Tiếp theo là không cởi trần khi ngồi ghế.
-- Ghế Aeron sử dụng lưới 8Z Pellicle độc quyền của hãng, được Matrex sản xuất tại Mỹ. Tuy nhiên, độ bền trên lưới của Aeron chỉ phát huy khi bạn sử dụng đúng “hướng dẫn sử dụng” của hãng:
-    - Không để lưới bị ánh nắng mặt trời chiếu trực tiếp vào lưới.
-    - Không để mồ hôi, nước tiếp xúc với lưới ghế.
-- Các hãng ghế khác như Ergohuman (Đài Loan), GTChair (Trung Quốc), Atlas (Mỹ) cũng đều từ chối bảo hành nếu bạn không sử dụng đúng cách.
+- Ergohuman Ultra
+    - seller themanson.vn: [8.450.000₫](https://themanson.vn/ghe-cong-thai-hoc-ergohuman-ultra-mau-den)
+    - seller dandihome.vn: [10.950.000₫](https://dandihome.vn/ergonomic-ergohuman-elite-2/)
+    - seller smafurniture.com: [10.450.000](https://smafurniture.com/ghe-cong-thai-hoc-ergohuman-elite-2)
 
 ## Showroom in Vn
 
@@ -74,3 +70,11 @@ Source: [dandihome.vn](https://dandihome.vn/ve-sinh-ghe-luoi-nhu-the-nao/)
                 - 5 năm cho các linh kiện: piston, bánh xe, tựa đầu, móc áo.
                 - 12 năm cho khung nhôm, khung nhựa FPC và chân ghế.
 
+## Vệ sinh ghế lưới như thế nào?
+
+Source: [dandihome.vn](https://dandihome.vn/ve-sinh-ghe-luoi-nhu-the-nao/)
+- cần đóng rèm, không để ánh nắng mặt trời chiếu thẳng vào ghế. Tiếp theo là không cởi trần khi ngồi ghế.
+- Ghế Aeron sử dụng lưới 8Z Pellicle độc quyền của hãng, được Matrex sản xuất tại Mỹ. Tuy nhiên, độ bền trên lưới của Aeron chỉ phát huy khi bạn sử dụng đúng “hướng dẫn sử dụng” của hãng:
+    - Không để lưới bị ánh nắng mặt trời chiếu trực tiếp vào lưới.
+    - Không để mồ hôi, nước tiếp xúc với lưới ghế.
+- Các hãng ghế khác như Ergohuman (Đài Loan), GTChair (Trung Quốc), Atlas (Mỹ) cũng đều từ chối bảo hành nếu bạn không sử dụng đúng cách.
