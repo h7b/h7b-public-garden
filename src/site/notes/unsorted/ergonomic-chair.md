@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unsorted/ergonomic-chair/","created":"2024-11-09T00:53:34+07:00","updated":"2024-11-13T22:24:41+07:00"}
+{"dg-publish":true,"permalink":"/unsorted/ergonomic-chair/","created":"2024-11-09T00:53:34+07:00","updated":"2024-11-13T22:39:29+07:00"}
 ---
 
 # Ergonomic chair
@@ -78,3 +78,19 @@ Source: [dandihome.vn](https://dandihome.vn/ve-sinh-ghe-luoi-nhu-the-nao/)
     - Không để lưới bị ánh nắng mặt trời chiếu trực tiếp vào lưới.
     - Không để mồ hôi, nước tiếp xúc với lưới ghế.
 - Các hãng ghế khác như Ergohuman (Đài Loan), GTChair (Trung Quốc), Atlas (Mỹ) cũng đều từ chối bảo hành nếu bạn không sử dụng đúng cách.
+
+## Ghế công thái học chính hãng
+
+Source: [dandihome.vn](https://dandihome.vn/)
+
+HermanMiller (1905 – Mỹ), Ergohuman (1996 – Đài Loan), GTChair (1992 – Trung Quốc).
+
+- Ghế Ergohuman – không nhiều người biết, đây là tên của một dòng ghế, chứ không phải tên của 1 hãng ghế.
+    - Ergohuman là dòng ghế thành công nhất của Comfort Seating – tương tự Aeron là dòng ghế thành công nhất của Herman Miller vậy.
+    - Năm 2000, do chi phí công nhân tại Đài Loan quá cao, Neil Wu đã quyết định chuyển nhà máy chính về Trung Quốc. Và đổi tên công ty là Comfort Seating
+    - Một số dòng ghế:
+        - Ergohuman 1, Enjoy 1 (2005)
+        - Ergohuman 2 (2022)
+        - Ergohuman Ultra (2023)
+        - Enjoy 2 (2022) bao gồm: Enjoy Basic 2 và Enjoy Elite 2
+- GTCHAIR (GT CHAIR), thành lập vào năm 1992, được ủy quyền sản xuất và bán ghế làm việc cao cấp bởi Dvary Ergo Seating, Inc. có trụ sở tại Hoa Kỳ.
