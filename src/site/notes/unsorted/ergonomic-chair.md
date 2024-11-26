@@ -1,51 +1,78 @@
 ---
-{"dg-publish":true,"permalink":"/unsorted/ergonomic-chair/","created":"2024-11-09T00:53:34+07:00","updated":"2024-11-13T22:39:29+07:00"}
+{"dg-publish":true,"permalink":"/unsorted/ergonomic-chair/","title":"Ergonomic chair","created":"2024-11-09T00:53:34+07:00","updated":"2024-11-27T00:28:01+07:00"}
 ---
 
 # Ergonomic chair
 
 ## Possible choices in Vietnam
 
-- [Caster V2 - B](https://shopee.vn/Gh%E1%BA%BF-c%C3%B4ng-th%C3%A1i-h%E1%BB%8Dc-SMA-Furniture-Caster-L%C6%B0%E1%BB%9Bi-Wintex-H%C3%A0n-Qu%E1%BB%91c-ng%E1%BA%A3-gh%E1%BA%BF-140-%C4%91%E1%BB%99-b%E1%BA%A3o-h%C3%A0nh-5-n%C4%83m-i.497419141.24284232740?sp_atk=70aaa9f9-5bb4-4344-ab18-516d10facfd7)
-    - 5.450.000
-    - Kiểu dáng khá giống dòng ghế [Ergohuman Ultra](https://shopee.vn/Ghế-công-thái-học-Nghia-furniture-Ergohuman-Elite-02-Lưới-Matrex-Mỹ-piston-class-4-samhongsa-i.122012647.28953372464)
+- Caster V2 - B
+    - shopee SMA Furniture: [5.450.000](https://shopee.vn/Ghế-công-thái-học-SMA-Furniture-Caster-Lưới-Wintex-Hàn-Quốc-ngả-ghế-140-độ-bảo-hành-5-năm-i.497419141.24284232740?sp_atk=70aaa9f9-5bb4-4344-ab18-516d10facfd7)
+    - shopee Nghia Furniture:  [5.360.000](https://shopee.vn/product/122012647/25728866541)
+    - Kiểu dáng khá giống dòng ghế Ergohuman Ultra giá [10.430.000](https://shopee.vn/Ghế-công-thái-học-Nghia-furniture-Ergohuman-Elite-02-Lưới-Matrex-Mỹ-piston-class-4-samhongsa-i.122012647.28953372464)
     - Bảo hành 5 năm Lỗi 1 Đổi 1. Bảo hành lưới bong rách, trung lưới, khung lưới. Đổi bộ phận mới khi ghế bị lỗi
-    - seller: [SMA Furniture](https://smafurniture.com/)
-    - Same product by Nghia Furniture: [Caster V2 - B](https://shopee.vn/product/122012647/25728866541)
-- [Maza](https://shopee.vn/Gh%E1%BA%BF-c%C3%B4ng-th%C3%A1i-h%E1%BB%8Dc-Nghia-furniture-Maza-Piston-class-4-Samhongsa-H%C3%A0n-Qu%E1%BB%91c-l%C6%B0%E1%BB%9Bi-Wintex-H%C3%A0n-Qu%E1%BB%91c-i.122012647.25773300888?sp_atk=252c9c5e-da3b-4a1e-b6a3-4a9fc8381d61)
-    - 5.750.000
-    - seller: [Nghia Furniture](https://nghiafurniture.com/)
-    - Same product by SMA Furniture: [Maza](https://shopee.vn/Gh%E1%BA%BF-c%C3%B4ng-th%C3%A1i-h%E1%BB%8Dc-SMA-Furniture-Maza-L%C6%B0%E1%BB%9Bi-Wintex-H%C3%A0n-Qu%E1%BB%91c-Piston-Class-4-Ng%E1%BA%A3-gh%E1%BA%BF-135-%C4%91%E1%BB%99-i.497419141.27256777972?sp_atk=0cc9a10b-f83f-4995-9430-1ee76c372744)
-- [Mirai](https://shopee.vn/Ghế-công-thái-học-SMA-Furniture-Mirai-Tối-đa-tính-năng-Ngả-ghế-140-độ-piston-class-4-có-gác-chân-i.497419141.27709121763)
-    - 2.950.000
-    - seller: SMA Furniture
-- [Manson IRIS](https://shopee.vn/-H%E1%BB%8Fa-T%E1%BB%91c-Gh%E1%BA%BF-C%C3%B4ng-Th%C3%A1i-H%E1%BB%8Dc-Manson-IRIS-Gh%E1%BA%BF-V%C4%83n-Ph%C3%B2ng-L%C6%B0%E1%BB%9Bi-Wintex-H%C3%A0n-Qu%E1%BB%91c-%C4%90en-X%C3%A1m-Lumbar-%C4%90i%E1%BB%81u-Ch%E1%BB%89nh-H%E1%BB%97-Tr%E1%BB%A3-C%E1%BB%99t-S%E1%BB%91ng.-i.875897965.22676845931?sp_atk=5474eeb6-dc74-4614-a595-d3c45f538cb4)
-    - 4.830.000
+- Maza
+    - shopee Nghia Furniture: [5.750.000](https://shopee.vn/Gh%E1%BA%BF-c%C3%B4ng-th%C3%A1i-h%E1%BB%8Dc-Nghia-furniture-Maza-Piston-class-4-Samhongsa-H%C3%A0n-Qu%E1%BB%91c-l%C6%B0%E1%BB%9Bi-Wintex-H%C3%A0n-Qu%E1%BB%91c-i.122012647.25773300888?sp_atk=252c9c5e-da3b-4a1e-b6a3-4a9fc8381d61)
+    - shopee SMA Furniture: [5.750.000](https://shopee.vn/Gh%E1%BA%BF-c%C3%B4ng-th%C3%A1i-h%E1%BB%8Dc-SMA-Furniture-Maza-L%C6%B0%E1%BB%9Bi-Wintex-H%C3%A0n-Qu%E1%BB%91c-Piston-Class-4-Ng%E1%BA%A3-gh%E1%BA%BF-135-%C4%91%E1%BB%99-i.497419141.27256777972?sp_atk=0cc9a10b-f83f-4995-9430-1ee76c372744)
+- Mirai
+    - shopee SMA Furniture: [2.950.000](https://shopee.vn/Ghế-công-thái-học-SMA-Furniture-Mirai-Tối-đa-tính-năng-Ngả-ghế-140-độ-piston-class-4-có-gác-chân-i.497419141.27709121763)
+- Nghia Furniture Ergonomic Life 02 Plus
+    - Phien ban "Khung thep, luoi den", seller nghiafurniture: [₫7.130.000](https://shopee.vn/product/122012647/18132478798?d_id=0bb1c)
+- Manson IRIS - Lưới Wintex đen
+    - shopee themanson.chair: [4.780.000](https://shopee.vn/-H%E1%BB%8Fa-T%E1%BB%91c-Gh%E1%BA%BF-C%C3%B4ng-Th%C3%A1i-H%E1%BB%8Dc-Manson-IRIS-Gh%E1%BA%BF-V%C4%83n-Ph%C3%B2ng-L%C6%B0%E1%BB%9Bi-Wintex-H%C3%A0n-Qu%E1%BB%91c-%C4%90en-X%C3%A1m-Lumbar-%C4%90i%E1%BB%81u-Ch%E1%BB%89nh-H%E1%BB%97-Tr%E1%BB%A3-C%E1%BB%99t-S%E1%BB%91ng.-i.875897965.22676845931?sp_atk=5474eeb6-dc74-4614-a595-d3c45f538cb4)
+    - themanson.vn: [4.500.000](https://themanson.vn/ghe-cong-thai-hoc-manson-iris-luoi-wintex-han-quoc-mau-den-lung-nang-ha-mat-ngoi-truot)
+    - thinkpro: [4.590.000](https://thinkpro.vn/ghe-cong-thai-hoc/ghe-cong-thai-hoc-manson-iris?skuId=7699)
     - Bảo hành 5 năm
-    - seller: [themanson.vn](https://themanson.vn/)
-- [Manson Atum](https://shopee.vn/-H%E1%BB%8Fa-T%E1%BB%91c-Gh%E1%BA%BF-Manson-Atum-T%E1%BB%B1a-%C4%90%E1%BA%A7u-6D-M%C3%A0u-%C4%90en-X%C3%A1m-Gh%E1%BA%BF-Xoay-C%C3%B4ng-Th%C3%A1i-H%E1%BB%8Dc-L%C6%B0ng-H%E1%BB%A3p-Kim-Nh%C3%B4m-i.875897965.25428271476?sp_atk=f96c5926-733f-4d26-88ab-881c8aa671e4)
-    - 5.350.000
+- Manson Atum
+    - shopee themanson.chair: [5.350.000](https://shopee.vn/-H%E1%BB%8Fa-T%E1%BB%91c-Gh%E1%BA%BF-Manson-Atum-T%E1%BB%B1a-%C4%90%E1%BA%A7u-6D-M%C3%A0u-%C4%90en-X%C3%A1m-Gh%E1%BA%BF-Xoay-C%C3%B4ng-Th%C3%A1i-H%E1%BB%8Dc-L%C6%B0ng-H%E1%BB%A3p-Kim-Nh%C3%B4m-i.875897965.25428271476?sp_atk=f96c5926-733f-4d26-88ab-881c8aa671e4)
+    - themanson.vn: [4.990.000](https://themanson.vn/ghe-cong-thai-hoc-manson-atum-mau-den-lung-hop-kim-nhom-tua-dau-6d)
+    - thinkpro: [4.990.000](https://thinkpro.vn/ghe-cong-thai-hoc/ghe-cong-thai-hoc-manson-atum)
     - Bảo hành 5 năm
-    - seller: [themanson.vn](https://themanson.vn/)
-- [Epione ElysChair](https://epione.vn/products/epione-elyschair)
-    - 2.690.000 VND
+- Manson Atum Pro 4.0
+    - themanson.vn: [5.990.000](https://themanson.vn/ghe-cong-thai-hoc-manson-atum-mau-den-pro-4.0-luoi-cloudmesh-v2-lung-hop-kim-tua-dau-6d)
+- Sihoo M57 - Lưng Đen Lưới Đen
+    - themanson.vn: [3.500.000](https://themanson.vn/ghe-cong-thai-hoc-sihoo-m57-ergonomic-lung-den-luoi-den)
+- Sihoo M90
+    - themanson.vn: [4.300.000](https://themanson.vn/ghe-cong-thai-hoc-sihoo-m90-lung-luoi-nang-ha-tay-3-d-moi-nhat)
+- Sihoo M93
+    - themanson.vn: [5.800.000](https://themanson.vn/ghe-cong-thai-hoc-sihoo-m93-dem-luoi-truot-mau-xam)
+- HyperWork Airy
+    - hyperwork.vn: [3.290.000](https://hyperwork.vn/products/ghe-cong-thai-hoc-hyperwork-airy)
+- HyperWork Sleek
+    - hyperwork.vn: [5.690.000](https://hyperwork.vn/products/ghe-cong-thai-hoc-hyperwork-sleek)
+    - thinkpro: [5.090.000](https://thinkpro.vn/ghe-cong-thai-hoc/ghe-cong-thai-hoc-hyperwork-sleek)
+- Epione ElysChair
+    - epione: [2.690.000 VND](https://epione.vn/products/epione-elyschair)
     - Bảo hành 2 năm
-    - seller: [Epione](https://epione.vn/)
-- [Epione FortisChair 2.0](https://epione.vn/products/epione-fortischair-2)
-    - 4.590.000 VND
-    - Bảo hành 2 năm
+- Epione FortisChair 2.0
+    - epione: [4.590.000](https://epione.vn/products/epione-fortischair-2)
     - Similar product but previous version: [Epione FortisChair](https://epione.vn/products/epione-fortischair) 3.590.000 VND
-- [GTChair I-see M](https://dandihome.vn/ghe-luoi-cong-thai-hoc-ergonomic-gtchair-i-see/)
-    - 5.600.000₫
+    - Bảo hành 2 năm
+- GTChair I-see M
+    - dandihome: [5.600.000](https://dandihome.vn/ghe-luoi-cong-thai-hoc-ergonomic-gtchair-i-see/)
     - Phiên bản rút gọn của I-see X
-    - seller: DandiHome
-- [Ergohuman Enjoy Basic 2](https://dandihome.vn/ergonomic-ergohuman-elite-2/)
-    - 6.950.000₫
+    - Note: Đã ngồi thử ở thinkpro. Ko ấn tượng vì ko thấy ghi note lại
+- Ergohuman Enjoy Basic 2
+    - dandihome: [6.950.000](https://dandihome.vn/ergonomic-ergohuman-elite-2/)
     - Phiên bản rút gọn của Enjoy Elite 2
 - Ergohuman Ultra
-    - seller themanson.vn: [8.450.000₫](https://themanson.vn/ghe-cong-thai-hoc-ergohuman-ultra-mau-den)
-    - seller dandihome.vn: [10.950.000₫](https://dandihome.vn/ergonomic-ergohuman-elite-2/)
-    - seller smafurniture.com: [10.450.000](https://smafurniture.com/ghe-cong-thai-hoc-ergohuman-elite-2)
+    - themanson.vn: [8.450.000₫](https://themanson.vn/ghe-cong-thai-hoc-ergohuman-ultra-mau-den)
+    - dandihome: [10.950.000₫](https://dandihome.vn/ergonomic-ergohuman-elite-2/)
+    - smafurniture.com: [10.450.000](https://smafurniture.com/ghe-cong-thai-hoc-ergohuman-elite-2)
+- Gami Crom (Bản All Black)
+    - seller Gami: [5,990,000₫](https://www.gamivietnam.vn/products/ghe-gami-crom-all-black)
+    - seller thinkpro: [5.890.000](https://thinkpro.vn/ghe-cong-thai-hoc/ghe-cong-thai-hoc-gami-crom)
+    - Note: Đã ngồi thử ở thinkpro. C thích cái này
+- Gami Focus V2 Full lưới
+    - seller Gami: [3,590,000](https://www.gamivietnam.vn/products/ghe-gami-focus-v2)
+- SIHOO Xiaoqi X5
+    - thinkpro: [5.790.000](https://thinkpro.vn/ghe-cong-thai-hoc/ghe-cong-thai-hoc-sihoo-xiaoqi-x5-ergonomic-gaming-chair?skuId=8687)
+- SIHOO Xiaoqi X5 Pro
+    - thinkpro: [7.690.000](https://thinkpro.vn/ghe-cong-thai-hoc/ghe-cong-thai-hoc-sihoo-xiaoqi-x5-ergonomic-gaming-chair?skuId=8688)
+    - Note: Đã ngồi thử ở thinkpro. C thích cái này. Khung nhựa có vẻ ko chắc chắn. Mặt lưới ngồi êm. Kiểu dáng hầm hố. Đệm thắt lưng ngồi dễ chịu
+- Sihoo A3 - Doro C300
+    - thinkpro: [6.990.000](https://thinkpro.vn/ghe-cong-thai-hoc/ghe-cong-thai-hoc-sihoo-a3-doro-c300)
+    - Note: Đã ngồi thử ở thinkpro. C ko thích. Đệm thắt lưng ngồi cấn, ko thoải mái bằng các mẫu đã ngồi thử
 
 ## Showroom in Vn
 
@@ -69,6 +96,13 @@
                 - Đối với ghế Ergohuman, hãng bảo hành lưới cả với trường hợp bạn cởi trần, hoặc ánh nắng mặt trời (để ghế bên cạnh cửa sổ mà không đóng rèm).
                 - 5 năm cho các linh kiện: piston, bánh xe, tựa đầu, móc áo.
                 - 12 năm cho khung nhôm, khung nhựa FPC và chân ghế.
+- [ThinkPro](https://thinkpro.vn/)
+    - showroom: 95 Trần Thiện Chánh, Q10, TpHCM
+    - showroom: Số 5 - 7 Nguyễn Huy Tưởng, F6, Q. Bình Thạnh
+- [Gami](https://www.gamivietnam.vn/)
+    - showroom: Số 1/23 Huỳnh Lan Khanh, Phường 2, Quận Tân Bình, Thành phố Hồ Chí Minh
+    - phone: 084 696 5678
+    - [Chính sách bảo hành](https://www.gamivietnam.vn/pages/chinh-sach-bao-hanh)
 
 ## Vệ sinh ghế lưới như thế nào?
 
