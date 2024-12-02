@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unsorted/sideload-apps-ios/","title":"How to sideload apps to iPhones?","created":"2023-03-16T07:43:52+07:00","updated":"2024-12-02T23:46:44+07:00"}
+{"dg-publish":true,"permalink":"/unsorted/sideload-apps-ios/","title":"How to sideload apps to iPhones?","created":"2023-03-16T07:43:52+07:00","updated":"2024-12-02T23:54:22+07:00"}
 ---
 
 # How to sideload apps to iPhones?
@@ -39,6 +39,10 @@ Note:
 - Since 2024-08-20, the SideStore app can't be opened on ios devices to refresh sideloaded apps. Need to manually sideload the SideStore app via altserver from PC.
     - 2024-10-01, while lurking the SideStore discord, i found [a discussion](https://discord.com/channels/949183273383395328/1285553743752069141/1287528615361384510) in which they advised to use the SideStore ios app (installed via altserver) to open/sideload the SideStore ipa file itself again. This trick will eradicate the bug where SideStore ios app can't be opened
 - 2024-12-02 learn the existence of [iOS Shortcut to Auto Refresh Sidestore](https://www.youtube.com/watch?v=16gZztB8E2U)
+- 2024-12-02 read [Common SideStore annoyances and how to fix them](https://www.reddit.com/r/sideloaded/comments/1bxywa5/common_sidestore_annoyances_and_how_to_fix_them/)
+    - Issue 1: SideStore stops opening/crashes on open a couple of days into a fresh install
+    - Issue 2: SideStore crashes after the first successful app refresh/before it can refresh all apps
+    - Issue 3: SideStore’s “refresh all apps” action in the Shortcuts app is broken - errors/log say “the file cannot be found”
 
 ### Sideloadly
 
