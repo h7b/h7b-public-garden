@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unsorted/ergonomic-chair/","title":"Ergonomic chair","created":"2024-11-09T00:53:34+07:00","updated":"2024-11-28T08:11:19+07:00"}
+{"dg-publish":true,"permalink":"/unsorted/ergonomic-chair/","title":"Ergonomic chair","created":"2024-11-09T00:53:34+07:00","updated":"2024-12-02T23:49:48+07:00"}
 ---
 
 # Ergonomic chair
@@ -34,7 +34,9 @@
 - Manson Hbada E3 Pro - không kê chân - màu Black
     - thinkpro: [6.990.000](https://thinkpro.vn/ghe-cong-thai-hoc/ghe-cong-thai-hoc-manson-hbada-e3-pro)
     - themanson: [6.990.000](https://themanson.vn/ghe-cong-thai-hoc-hbada-manson-e3-pro-mau-den)
-    - Note: khung kim loại, form ghế nhìn có vẻ chắc chắn
+    - Note:
+        - 2024-11-10 nhìn trên website thấy khung kim loại, form ghế nhìn có vẻ chắc chắn.
+        - 2024-11-30 mua trên shopee từ đại lý phân phối themanson.chair, nhận về sản phẩm cũng tên e3 pro. Nhưng khung nhựa, 2 tay ghế bắt chết vào mâm ghế chứ không bắt vào lưng như hình và clip trên website. Đại lý giải thích cho 2 phiên bản. Phiên bản ko có gác chân thì tay ghế bắt cố định vào mâm. Phiên bản có gác chân thì tay ghế mới bắt vào lưng và di chuyển theo chuyển động ngả lưng.
 - Sihoo M57 - Lưng Đen Lưới Đen
     - themanson: [3.500.000](https://themanson.vn/ghe-cong-thai-hoc-sihoo-m57-ergonomic-lung-den-luoi-den)
 - Sihoo M90
