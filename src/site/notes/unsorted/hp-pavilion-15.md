@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unsorted/hp-pavilion-15/","title":"Laptop HP Pavilion 15","created":"2024-08-06T09:24:36+07:00","updated":"2024-12-03T00:11:50+07:00"}
+{"dg-publish":true,"permalink":"/unsorted/hp-pavilion-15/","title":"Laptop HP Pavilion 15","created":"2024-08-06T09:24:36+07:00","updated":"2024-12-04T23:09:17+07:00"}
 ---
 
 # Laptop HP Pavilion 15
@@ -35,6 +35,8 @@ Ram
 - [RAM Laptop Kingston 16GB DDR4 Bus 2666MHz KVR26S19S8/16, tháng 11-2024](https://www.tnc.com.vn/ram-laptop-16gb-kingston-bus-2666mhz.html)
 - [RAM Laptop Kingston 8GB DDR4 Bus 2666Mhz KVR26S19S8/8](https://www.tnc.com.vn/ram-laptop-8gb-kingston-bus-2666mhz.html)
 - [Ram Laptop Kingston DDR4 8GB 2666MHz 1.2v KVR26S19S6/8](https://memoryzone.com.vn/ram-laptop-kingston-ddr4-8gb-2666mhz-1-2v-kvr26s19s6-8)
+- [Amazon.com: PNY Performance 16GB (2x8GB) DDR4 DRAM 3200MHz (PC4-25600) CL22 (Compatible with 2933MHz, 2666MHz, 2400MHz or 2133MHz) 1.2V Notebook/Laptop (SODIMM) Computer Memory Kit – MN16GK2D43200-TB](https://www.amazon.com/PNY-Performance-PC4-25600-Compatible-Notebook/dp/B09PXCR4VB)
+- [Crucial RAM 32GB Kit (2x16GB) DDR4 3200MHz CL22 (or 2933MHz or 2666MHz) Laptop Memory CT2K16G4SFRA32A at Amazon.com](https://www.amazon.com/Crucial-2x16GB-Laptop-Memory-CT2K16G4SFRA32A/dp/B08C4X9VR5?th=1)
 
 Hộp đựng ổ cứng
 - [Hộp đựng ổ cứng SSD M2 SATA USB 3.1 Gen 1, Đen, ORICO M2PF-C3-BK](https://www.tnc.com.vn/ssd-box-orico-m2pf-c3-bk.html)
