@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/buy-vs-rent-house/","title":"buy vs rent","created":"2023-03-16T07:43:53+07:00","updated":"2024-06-22T21:20:16+07:00"}
+{"dg-publish":true,"permalink":"/blog/buy-vs-rent-house/","title":"Mua vs Thuê nhà - Bạn quyết định dựa vào yếu tố nào?","created":"2023-03-16T07:43:53+07:00","updated":"2024-12-19T10:52:15+07:00"}
 ---
 
 # Mua vs Thuê nhà - Bạn quyết định dựa vào yếu tố nào?
@@ -49,7 +49,7 @@ Screencap kết quả từ [mô hình](https://my.causal.app/models/47260)<br>
 > - % tăng giá nhà kỳ vọng là 6%/năm thì sẽ không hợp lý nếu bất động sản là nhà chung cư
 > - lợi suất đầu tư kỳ vọng sẽ cao hơn nhiều so với 12%/năm nếu bạn tự tin rằng mình hiểu biết về các công cụ tài chính và có thể thắng XX lần lợi suất đầu tư trung bình của thị trường mà bạn tham gia
 
-> Note : payment scheme for references at [EMI](/unsorted/equated-monthly-installment.md)
+> Note : payment scheme for references at [EMI](equated-monthly-installment.md)
 
 # Other buy vs rent what-if scenario and inputs to consider
 
