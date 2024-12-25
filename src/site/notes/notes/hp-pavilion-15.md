@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/hp-pavilion-15/","title":"Laptop HP Pavilion 15","created":"2024-08-06T09:24:36+07:00","updated":"2024-12-10T23:27:14+07:00"}
+{"dg-publish":true,"permalink":"/notes/hp-pavilion-15/","title":"Laptop HP Pavilion 15","created":"2024-08-06T09:24:36+07:00","updated":"2024-12-19T11:48:37+07:00"}
 ---
 
 # Laptop HP Pavilion 15
