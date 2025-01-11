@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"post/sideload-apps-ios.md","permalink":"/post/sideload-apps-ios/","title":"How to sideload apps to iPhones?","created":"2023-03-16T07:43:52+07:00","updated":"2025-01-12T00:54:11+07:00"}
+{"dg-publish":true,"dg-path":"post/sideload-apps-ios.md","permalink":"/post/sideload-apps-ios/","title":"How to sideload apps to iPhones?","created":"2023-03-16T07:43:52+07:00","updated":"2025-01-12T01:02:22+07:00"}
 ---
 
 # How to sideload apps to iPhones?
@@ -47,6 +47,11 @@ Note:
 - 2025-01-07 read [Install 2 or more apps in SideStore : r/sideloaded](https://www.reddit.com/r/sideloaded/comments/1g0n1z4/install_2_or_more_apps_in_sidestore/)
     - It uses [SideStore v0.5.10](https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa) and [SparseBox](https://github.com/khanhduytran0/SparseBox/actions)
     - with another [SideStore Auto Refresh Shortcuts](https://www.icloud.com/shortcuts/27395534f3494ae18ac948a3fa3b75a9)
+- 2025-01-12 notes when set up pairing file and encounter errors
+    - might have to change the file extension to ".plist"
+    - might have to change the paring filename into "ALTPairingFile.mobiledevicepairing"
+    - might have to move the files from icloud Drive into "On my iPhone"
+    - these changes might help to fix the pairing errors
 
 ### Sideloadly
 
