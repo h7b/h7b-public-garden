@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"post/ietls-prepare.md","permalink":"/post/ietls-prepare/","title":"IELTS self-teach materials","created":"2024-08-31T16:56:28+07:00","updated":"2025-01-12T00:51:11+07:00"}
+{"dg-publish":true,"permalink":"/notes/ietls-prepare/","title":"IELTS self-teach materials","created":"2024-08-31T16:56:28+07:00","updated":"2025-01-13T22:51:49+07:00"}
 ---
 
 # IELTS self-teach materials

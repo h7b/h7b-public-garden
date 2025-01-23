@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"post/sideload-apps-ios.md","permalink":"/post/sideload-apps-ios/","title":"How to sideload apps to iPhones?","created":"2023-03-16T07:43:52+07:00","updated":"2025-01-12T01:02:22+07:00"}
+{"dg-publish":true,"permalink":"/notes/sideload-apps-ios/","title":"How to sideload apps to iPhones?","created":"2023-03-16T07:43:52+07:00","updated":"2025-01-12T01:02:22+07:00"}
 ---
 
 # How to sideload apps to iPhones?
