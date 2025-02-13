@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/tv-services-vn/","title":"TV services in Vietnam","created":"2024-11-13T01:36:23+07:00","updated":"2024-12-26T00:23:49+07:00"}
+{"dg-publish":true,"permalink":"/notes/tv-services-vn/","title":"TV services in Vietnam","created":"2024-11-13T01:36:23+07:00","updated":"2025-02-10T14:49:31+07:00"}
 ---
 
 # TV services in Vietnam
@@ -27,14 +27,13 @@
     - Danh muc kenh
         - <https://htvc.vn/goi-dich-vu/truyen-hinh-cap>
         - <https://www.htvc.info/p/bang-kenh.html>
-        -
     - Pricing:
         - <https://htvc.vn/goi-dich-vu/bang-gia-dich-vu/truyen-hinh-cap>
         - <https://www.htvc.info/p/truyen-hinh-cap.html>
         - đóng trước phí thuê bao: 74.25k/thang
     - Văn phòng Cty Việt Thành
         - Số 12 đường 817A Tạ Quang Bửu , Phường 5, Quận 8
-        - Số điện thoại tổng đài: 0839110022
+        - Số điện thoại tổng đài: 02839110022
         - source: [htvc.info](https://www.htvc.info/2022/02/thong-bao-thay-doi-vpgd-cty-viet-thanh.html)
     - Thanh toán:
         - [Thanh toán cước Truyền hình HTVC bằng hình thức chuyển khoản Online](https://htvc.vn/tin-tuc-su-kien/tin-tuc/thanh-toan-cuoc-truyen-hinh-htvc-bang-hinh-thuc-chuyen-khoan-online)
