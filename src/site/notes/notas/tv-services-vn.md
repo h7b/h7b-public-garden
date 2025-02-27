@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas/tv-services-vn/","title":"TV services in Vietnam","created":"2024-11-13T01:36:23+07:00","updated":"2025-02-14T01:22:27+07:00"}
+{"dg-publish":true,"permalink":"/notas/tv-services-vn/","title":"TV services in Vietnam","created":"2024-11-13T01:36:23+07:00","updated":"2025-02-27T23:35:37+07:00"}
 ---
 
 # TV services in Vietnam
@@ -23,6 +23,8 @@
 - [VTVcab ON](https://www.vtvcab.vn/)
     - Pricing: <https://www.vtvcab.vn/account/package>
     - Goi re nhat: 66k/thang
+- [VTV Go](https://vtvgo.vn/)
+    - has [app version for android tv](https://play.google.com/store/apps/details?id=vn.vtv.vtvgotv)
 - [HTVC](https://htvc.vn/)
     - Danh muc kenh
         - <https://htvc.vn/goi-dich-vu/truyen-hinh-cap>
@@ -39,4 +41,9 @@
         - [Thanh toán cước Truyền hình HTVC bằng hình thức chuyển khoản Online](https://htvc.vn/tin-tuc-su-kien/tin-tuc/thanh-toan-cuoc-truyen-hinh-htvc-bang-hinh-thuc-chuyen-khoan-online)
         - [Hướng dẫn thanh toán cước HTVC qua chuyển khoản ngân hàng](https://www.htvc.info/2021/08/thanh-toan-cuoc-htvc-qua-chuyen-khoan.html)
         - [Cách thanh toán cước Truyền hình HTVC qua Ví điện tử VNPT Pay](https://www.htvc.info/2021/09/thanh-toan-cuoc-truyen-hinh-htvc-qua-vi-dien-tu-vnpt-pay.html)
-        
+- [Galaxy Play](https://galaxyplay.vn/)
+    - Pricing: dang ky goi 50k/thang
+- [K+](https://www.kplus.vn/)
+    - [Pricing for app K+](https://pay.kplus.vn/app-kplus/mua-goi-app):
+        - goi re nhat "K+GIẢI TRÍ": 89k/thang
+            - bao gom HBO GO
