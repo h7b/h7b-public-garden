@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas/tv-services-vn/","title":"TV services in Vietnam","created":"2024-11-13T01:36:23+07:00","updated":"2025-02-27T23:35:37+07:00"}
+{"dg-publish":true,"permalink":"/notas/tv-services-vn/","title":"TV services in Vietnam","created":"2024-11-13T01:36:23+07:00","updated":"2025-03-05T00:46:12+07:00"}
 ---
 
 # TV services in Vietnam
@@ -7,19 +7,29 @@
 - [FPT Play](https://fptplay.vn/)
     - Pricing: <https://fptplay.vn/mua-goi>
     - Goi re nhat: 66k/thang
-    - Goi kem Kho phim HBO Go: 98k/thang
+    - Goi kem Kho phim HBO Go: 98k/thang. 2025-03-05 ko thay tren website nua.
 - [VieON](https://vieon.vn/)
     - Pricing: <https://vieon.vn/mua-goi/>
     - Goi re nhat: 69k/thang
     - Goi kem Kho phim HBO Go: 99k/thang
 - [Viettel TV360](https://tv360.vn/)
     - Pricing: <https://tv360.vn/packages>
-    - Goi re nhat: 50k/thang
-    - Phai mua them goi Kho phim HBO Go: 79k/thang
+    - Goi STANDARD: 50k/thang, re nhat
+    - Phai mua them goi Kho phim HBO Go: 50k/thang
 - [VNPT mytv](https://mytv.com.vn/)
     - Pricing: <https://mytv.com.vn/>
+    - [Thông tin gói cước Ứng dụng MyTV - Cập nhật: Tháng 9/2024](https://mytv.com.vn/upload/ttk/2024/09/Thong_tin_goi_cuoc_ung_dung_MyTV.pdf)
     - Goi re nhat: 40k/thang
     - Phai mua them goi Kho phim HBO Go: 50k/thang
+    - [Danh sách kênh của Ứng dụng MyTV](https://mytv.com.vn/ds-kenh-ung-dung-mytv.html)
+- [K+](https://www.kplus.vn/)
+    - [Pricing for app K+](https://pay.kplus.vn/app-kplus/mua-goi-app):
+        - goi re nhat "K+GIẢI TRÍ": 89k/thang
+            - bao gom HBO GO
+        - [Tổng hợp về chi phí thuê bao](https://hotro.kplus.vn/categories/thong-tin-dich-vu/tong-hop-ve-chi-phi)
+        - [Khuyến mãi khi gia hạn](https://hotro.kplus.vn/categories/huong-dan-gia-han/khuyen-mai-gia-han)
+    - [Danh sách kênh](https://hotro.kplus.vn/categories/noi-dung-chuong-trinh/danh-sach-kenh-cap-nhat)
+    -
 - [VTVcab ON](https://www.vtvcab.vn/)
     - Pricing: <https://www.vtvcab.vn/account/package>
     - Goi re nhat: 66k/thang
@@ -43,7 +53,3 @@
         - [Cách thanh toán cước Truyền hình HTVC qua Ví điện tử VNPT Pay](https://www.htvc.info/2021/09/thanh-toan-cuoc-truyen-hinh-htvc-qua-vi-dien-tu-vnpt-pay.html)
 - [Galaxy Play](https://galaxyplay.vn/)
     - Pricing: dang ky goi 50k/thang
-- [K+](https://www.kplus.vn/)
-    - [Pricing for app K+](https://pay.kplus.vn/app-kplus/mua-goi-app):
-        - goi re nhat "K+GIẢI TRÍ": 89k/thang
-            - bao gom HBO GO
