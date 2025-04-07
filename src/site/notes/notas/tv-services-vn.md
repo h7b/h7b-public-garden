@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notas/tv-services-vn/","title":"TV services in Vietnam","created":"2024-11-13T01:36:23+07:00","updated":"2025-03-05T00:46:12+07:00"}
+{"dg-publish":true,"permalink":"/notas/tv-services-vn/","title":"TV services in Vietnam","created":"2024-11-13T01:36:23+07:00","updated":"2025-03-31T08:26:35+07:00"}
 ---
 
 # TV services in Vietnam
@@ -29,7 +29,6 @@
         - [Tổng hợp về chi phí thuê bao](https://hotro.kplus.vn/categories/thong-tin-dich-vu/tong-hop-ve-chi-phi)
         - [Khuyến mãi khi gia hạn](https://hotro.kplus.vn/categories/huong-dan-gia-han/khuyen-mai-gia-han)
     - [Danh sách kênh](https://hotro.kplus.vn/categories/noi-dung-chuong-trinh/danh-sach-kenh-cap-nhat)
-    -
 - [VTVcab ON](https://www.vtvcab.vn/)
     - Pricing: <https://www.vtvcab.vn/account/package>
     - Goi re nhat: 66k/thang
